@@ -1,0 +1,58 @@
+{
+    "rowLength": 38,    
+    "row1":
+    {
+        "isActivate":true,
+        "firsNumber": "00001",
+        "Name": "Оператор",
+        "Number" : "001111",
+        "lastNumber": "01"
+    },
+    "Discount":
+    {
+        "isActivate": true,
+        "sWNDText": "Сума без знижок",
+        "sWND": "767.30",
+        "sWDText": "Сума знижок",
+        "sWD": "55.70",
+        "cur": "грн"
+    },
+
+    "Certificates":
+    {
+        "isActivate": true,
+        "header":"Подарункові сертифікати:",
+        "ratingText": "Номінал",
+        "serts":
+        [
+            {"num":"9990083995755", "rat":"50.00"},
+            {"num":"9990083995812", "rat":"75.00"}
+        ],
+        "cur":"грн"
+    },
+
+    "bonusInfo":
+    {
+        "isActivate":true,
+        "infoRow1": "ДЕТАЛІ ПРО БОНУСИ у Eva Bot",
+        "infoRow2": "або в мобільному додатку EVA"
+    },
+
+    "checkInfo":
+    {
+        "isActivate":true,
+        "checkName": "ЧЕК:",
+        "checkNumber": "123456",
+        "ppoIdentity": " в2(Ева 1)"
+    },
+    "typeInfo":
+    {
+        "null": null,
+        "bool":false,
+        "object": {"data":false},
+        "array": [1, 2, 3],
+        "int":123,
+        "float": 12.34,
+        "string": "some string"
+    }
+}
